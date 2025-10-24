@@ -31,7 +31,7 @@ const PhotoSlideshow = () => {
     },
     {
       id: 3,
-      url: '/photos/nàng thơ.png',
+      url: '/photos/nang_tho.png',
       alt: 'Nàng Thơ ✨',
       date: '2024',
       caption: 'Nàng Thơ',
@@ -61,7 +61,7 @@ const PhotoSlideshow = () => {
     },
     {
       id: 6,
-      url: '/photos/láo cá chó.png',
+      url: '/photos/lao_ca_cho.png',
       alt: 'Láo Cá Chó 😊',
       date: '2024',
       caption: 'Sweet',
@@ -71,7 +71,7 @@ const PhotoSlideshow = () => {
     },
     {
       id: 7,
-      url: '/photos/ỏooooooooooooooo.png',
+      url: '/photos/ooooooooooooooo.png',
       alt: 'Ỏoooooooo 🥰',
       date: '2024',
       caption: 'Beautiful',
