@@ -7,11 +7,11 @@ import { motion } from 'framer-motion'
  * Each photo has classic film borders and retro styling
  */
 const PhotoSlideshow = () => {
-  // Tracy's photos from the assets folder with vintage dates and wishes
+  // Tracy's photos from the public folder with vintage dates and wishes
   const photos = [
     {
       id: 1,
-      url: '/src/assets/photos/angel.png',
+      url: '/photos/angel.png',
       alt: 'Angel 💕',
       date: '2024',
       caption: 'My Angel',
@@ -21,7 +21,7 @@ const PhotoSlideshow = () => {
     },
     {
       id: 2,
-      url: '/src/assets/photos/angelllllllll.png',
+      url: '/photos/angelllllllll.png',
       alt: 'My Angel 💖',
       date: '2024',
       caption: 'Forever',
@@ -31,7 +31,7 @@ const PhotoSlideshow = () => {
     },
     {
       id: 3,
-      url: '/src/assets/photos/nàng thơ.png',
+      url: '/photos/nàng thơ.png',
       alt: 'Nàng Thơ ✨',
       date: '2024',
       caption: 'Nàng Thơ',
@@ -41,7 +41,7 @@ const PhotoSlideshow = () => {
     },
     {
       id: 4,
-      url: '/src/assets/photos/love you so muchhhhhhhhh.png',
+      url: '/photos/love you so muchhhhhhhhh.png',
       alt: 'Love You So Much 💗',
       date: '2024',
       caption: 'Love You',
@@ -51,7 +51,7 @@ const PhotoSlideshow = () => {
     },
     {
       id: 5,
-      url: '/src/assets/photos/loveeeeeeee you.png',
+      url: '/photos/loveeeeeeee you.png',
       alt: 'Loveeee You 💝',
       date: '2024',
       caption: 'Always',
@@ -61,7 +61,7 @@ const PhotoSlideshow = () => {
     },
     {
       id: 6,
-      url: '/src/assets/photos/láo cá chó.png',
+      url: '/photos/láo cá chó.png',
       alt: 'Láo Cá Chó 😊',
       date: '2024',
       caption: 'Sweet',
@@ -71,7 +71,7 @@ const PhotoSlideshow = () => {
     },
     {
       id: 7,
-      url: '/src/assets/photos/ỏooooooooooooooo.png',
+      url: '/photos/ỏooooooooooooooo.png',
       alt: 'Ỏoooooooo 🥰',
       date: '2024',
       caption: 'Beautiful',
@@ -81,7 +81,7 @@ const PhotoSlideshow = () => {
     },
     {
       id: 8,
-      url: '/src/assets/photos/tracyyyyyyyyyyy.png',
+      url: '/photos/tracyyyyyyyyyyy.png',
       alt: 'Tracy 💖',
       date: '2024',
       caption: 'Tracy ♥',
